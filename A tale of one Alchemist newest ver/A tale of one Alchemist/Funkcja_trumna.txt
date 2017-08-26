@@ -1,0 +1,1 @@
+pPlansza->Podziemia[44][75] = sufit;

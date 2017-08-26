@@ -1,0 +1,753 @@
+1
+Do miasta
+103 0 0
+2
+Na farmy
+104 0 0
+3
+Mysle, ze nie powinno Cie to interesowac...
+105 0 0
+4
+Do lasu
+107 0 0
+5
+Tak, masz racje przepraszam... Ide do:
+106 0 0
+6
+Co mozesz mi powiedziec o lesie?
+107 0 0
+7
+Co mozesz mi powiedziec o farmach?
+109 0 0
+8
+No to chodz i pokaz czego mozesz mnie nauczyc...
+0 0 1
+9
+Dzieki za rady ale nie trzeba wierzyc we wszystko co mowia.. Bywaj
+111 0 0
+10
+Co mozesz mi powiedziec o miescie?
+108 0 0
+11
+Kiedy ja musze porozmawiac z krolem. Sluzylem pod Albertem Talbarskim w czasie tragicznej bitwy o Asgar.
+112 0 0
+12
+Mozesz mi cos o niej opowiedziec?
+113 0 0
+13
+Jestem jednym z niewielu ocalalych!
+110 0 0
+14
+Witajcie! Szukam pracy.. Nie potrzeba Wam moze pomocy?
+115 0 0
+15
+Pewnien straznik przy rzece kazal odszukac swego brata. Mam mu to przekazac
+116 0 0
+16
+Witaj. Nie wiesz moze jak moglbym dostac sie do miasta?
+117 0 0
+17
+Dobrze.. Zajme sie tym.. A jak bedzie wygladac sprawa wynagrodzenia?
+119 0 0
+18
+Kto chce szpiegowac krola?
+118 0 0
+19
+Dobrze, moze byc
+0 0 2
+20
+Wybacz, nie jestem drwalem..
+0 0 0
+21
+Przynioslem pare klod drewna.. Oto one..
+0 0 2
+22
+Moge jeszcze jakos pomoc?
+121 0 0
+23
+Jak moglbym zdobyc glejt?
+123 0 0
+24
+Musze porozmawiac z krolem, przynosze wiesci z Asgaru
+124 0 0
+25
+Dobrze, dobrze juz sobie ide...
+0 0 0
+26
+Dobrze... To jak moge na niego "zasluzyc" ? ...
+125 0 0
+27
+Witaj, szukam osoby o imieniu Teodor
+127 0 0
+28
+Spokojnie, nie martw sie.. odnajde go
+0 0 3
+29
+Co slychac w okolicy?
+128 0 0
+30
+Bywaj!
+0 0 0
+31
+Gdzie moge znalezc Twojego meza?
+127 0 0
+32
+Mozesz mi powiedziec cos wiecej o tej bestii?
+129 0 0
+33
+<Rozgladam sie>
+0 0 3
+34
+Gdzie jestes?
+131 0 0
+35
+<Odchodze>
+0 0 0
+36
+Juz po Ciebie schodze
+133 0 0
+37
+Jestem! Spokojnie! Powiedz jak moge Ci pomoc?
+134 0 0
+38
+Dobrze, juz dobrze! Jak w takim razie moge Ci pomoc?
+134 0 0
+39
+Dobra, jak chcesz... Ja zawsze moge sobie stad odejsc..
+135 0 0
+40
+Chcialbym uzyskac make
+0 0 4
+41
+Co slychac?
+137 0 0
+42
+Sprobuje upiec chleb
+0 0 5
+43
+W porzadku.. Sprobuje cos zorganizowac. Poczekaj chwile..
+139 0 3
+44
+Hmm.. A co z tego bede mial ?
+140 0 0
+45
+<do siebie> znuzyla mnie juz przechadza po lesie.. Chyba bede wracal..
+141 0 0
+46
+Pytanie powinno brzmiec: Jak czlowiek w potrzebie smie stawiac warunki..
+141 0 0
+47
+Spokojnie.. Tylko zartowalem.. Oczywiscie, ze Ci pomoge!
+142 0 0
+48
+Interesy z Toba to czytsa przyjemnosc..
+0 0 6
+49
+
+0 0 3
+50
+Przynioslem Ci bohenek chleba
+0 0 3
+51
+Mam line! Szykuj sie!
+0 0 3
+52
+Nie ma sprawy.. Nie daj sie zabic i patrz pod nogi <ironiczny usmiech>
+149 0 0
+53
+Dasz rade sam wrocic? Moze moge Ci jeszce jakos pomoc?
+144 0 0
+54
+Jestes moze Teodor ?
+146 0 0
+55
+Jak uwazasz.. Nie daj sie zabic i patrz pod nogi. Bywaj!
+149 0 0
+56
+To zaden problem. A szkoda by bylo gdbys po takiej akcji ratunkowej zginal po drodze...
+145 0 3
+57
+Twoja zona sie o Ciebie martwi..
+147 0 0
+58
+Nie daj sie zabic i patrz pod nogi. Bywaj!
+149 0 0
+59
+Twoj brat kazal Ci to przekazac
+150 0 0
+60
+Mysle jednak ze w tym przypadku przyniesiesz ze soba do domu radosc
+148 0 0
+61
+Wygladasz na zaskoczonego..
+151 0 0
+62
+Przekaze. A na czym polegala zabawa jesli wolno spytac?
+0 0 8
+63
+Trzymam za slowo
+0 0 7
+64
+Jak samopoczucie?
+155 0 0
+65
+Teodorze, przysyla mnie Twoj brat...
+156 0 0
+66
+Uwazaj na siebie.. Bywaj!
+0 0 0
+67
+Kazal Ci to przekazac
+157 0 0
+68
+Wygladasz na zaskoczonego...
+158 0 0
+69
+Przekaze. A na czym polegala zabawa jesli wolno spytac?
+159 0 8
+70
+Chetnie poslucham...
+0 0 7
+71
+No i jestes w domu.. Wiec jak z ta opowiescia ?
+159 0 0
+72
+Jak to nie skonczyla ?! Co sie stalo ?
+163 0 0
+73
+I co z ta przygoda? Co bylo dalej?
+161 0 66
+74
+To smutne.. Ale coz.. Bywaj!
+0 0 0
+75
+Zdaje sie ze bylisice przyjaciolmi. Wiec co sie stalo ze sie tak porozniliscie?
+164 0 0
+76
+Hej! Hej! Teodor? O czym Ty mowisz? Jaki jeden ?
+165 0 7
+77
+Chcialbym porozmawiac o okolicy..
+167 0 0
+78
+Przypomnij mi, komu mialem przekazac ten pierscien?
+168 0 8
+79
+Dzieki. To wszystko co chcialem wiedziec. Bywaj!
+0 0 0
+80
+Chcialbym dostac sie do miasta
+103 0 0
+81
+Gdzie znajduja sie farmy?
+104 0 0
+82
+Czego moge sie spodziewac idac do lasu?
+104 0 0
+83
+Przekazlem pierscien Teodorowi
+169 0 0
+84
+Przekazlem pierscien Teodorowi, kazal przekazac ze bedzie tam gdzie smoki gasza pragnienie... cokolwiek to znaczy...
+170 0 8
+85
+Chcialbym o cos spytac...
+171 0 0
+86
+Wiec jak z tym dostepem do miasta?
+172 0 0
+87
+Teodor wygladal na zaskoczonego kiedy wspomnialem ze mam prezent od Ciebie..
+173 0 0
+88
+Miejsce gdzie smoki gasza pragnienie?
+174 0 0
+89
+Co Was tak poroznilo ?
+174 0 0
+90
+Masz racje.. Wybacz..
+0 0 0
+91
+Innych? To znaczy kogo?
+0 0 9
+92
+Drobiazg, uwazaj na siebie!
+175 0 3
+93
+Bardziej niz Twoja wdziecznosc przydadza mi sie pieniadze...
+0 0 6
+94
+To od Twojego brata
+177 0 0
+95
+Nie ma sprawy...
+0 0 8
+96
+Wiezniem ? A niby czego?
+180 0 0
+97
+Szukam pracy, moze moglbym Ci jakos pomoc?
+187 0 0
+98
+Bywaj..
+179 0 0
+99
+Niezbyt rozumiem.. Co to ma wspolnego z wiezieniem?
+181 0 0
+100
+Jakie znowu jadro ciemnosci...?
+182 0 0
+101
+Schodzimy z tematu.. Jaki to ma zwiazek z wiezieniem?
+194 0 0
+102
+Czyli jesli braknie zrodla swiatla to bedziemy wolni od hmm.. "mroku"?
+183 0 0
+103
+A co jesli swiatlo bedzie tak silne ze cien zaniknie ?
+184 0 0
+104
+Ale Ty chromolisz... Masz stanowczo za duzo wolnego czasu..
+0 0 0
+105
+Zla moze i nie ale cienia napewno.
+185 0 0
+106
+Nie musisz... Bywaj!
+179 0 0
+107
+Spokojnie. Potrafie to udowodnic. Badz Cierpliwy.
+186 0 11
+108
+Wporzadku. Zobacze co da sie zrobic!
+0 0 10
+109
+Chyba jednak wole poszukac czegos innego..
+0 0 0
+110
+Apropo jadra ciemnosci.. Widzialem w poblizu cmentarz...
+188 0 0
+111
+Co masz na mysli ?
+189 0 0
+112
+Mozesz powiedziec mi cos wiecej o tych "eksperymentach"?
+190 0 0
+113
+Mozesz powiedziec mi cos wiecej o tych specyfikach?
+191 0 0
+114
+Mozesz powiedziec mi cos wiecej o hmm.. "mieszkancach cmentarza"?
+192 0 0
+115
+Kotlinie? Jakiej kotlinie? Przeciez tu wszedzie za rowne pola i tereny ?!
+193 0 0
+116
+Oto 5 skor wilka.. Zgodnie z umowa.
+0 0 10
+117
+Witajcie. Szukam noclegu..
+0 0 12
+118
+Kiedy ja musze dostac sie do krola!
+196 0 0
+119
+Chcialbym prosci o audiencje u krola.. Mam wazne wiesci z Asgaru
+197 0 0
+120
+Rozumiem. Bywaj
+0 0 0
+121
+Otoz PRAWIE nikt nie przezyl.. Bo jak widzisz stoje przed Toba i chce zdac raport samemu krolowi
+198 0 0
+122
+Nieobecnosci? A wiadomo kiedy wraca? Bo do tego czasu moze byc ciezko jesli chodzi o audiencje...
+199 0 0
+123
+Gdzie moge znalezc obecnego zarzadce miasta?
+200 0 0
+124
+Chcialbym prosic o audiencje u krola.. Mam dla niego wazne wiesci
+202 0 0
+125
+Co slychac w miescie?
+209 0 0
+126
+Czego nie rozumiesz w "wiadomosc dla krola" ?
+0 0 0
+127
+Z Asgaru...
+203 0 0
+128
+Otoz prawie wszyscy.. Jak widzisz stoje przed Toba i co wiecej nie tylko ja przetrwalem..
+204 0 0
+129
+Zdrajcy! Ktos zdradzil.. Nawet wiecej niz jedna osoba.. ALe musze o tym pomowic z krolem.. Tak wiec jesli zalezy Ci na dobrze kraju to pomoz mi..
+205 0 0
+130
+W jaki sposob ?
+206 0 0
+131
+Jakzeby inaczej... O co chodzi? ...
+207 0 0
+132
+A co jesli odmowie ?
+208 0 0
+133
+Zgoda. Niech bedzie
+0 0 13
+134
+Zloze raport jak bede cos wiedzial
+0 0 0
+135
+Spokojnie.. Chcialem tylko porozmaiwac..
+214 0 0
+136
+A ja mysle ze mamy.. <pokazujesz pierscien>
+215 0 0
+137
+Masz racje.. Bywaj..
+0 0 0
+138
+A widzisz.. Czyli jednak porozmawiamy?
+216 0 0
+139
+Hmm.. W pewnym sensie to juz rozmawiamy.. No ale dobrze..
+217 0 0
+140
+Bulka z maslem, czekajcie chwile..
+0 0 13
+141
+To sa chyba jakies zarty... Mam biegac na czas?
+218 0 0
+142
+Taak? A co w tym czasie takiego niezwyklego...
+219 0 14
+143
+Dobra, niech bedzie.. Czekajcie chwile..
+0 0 13
+144
+Spokojnie.. Chcialem tylko porozmawiac..
+220 0 0
+145
+A ja mysle ze mamy.. <pokazujesz pierscien>
+221 0 0
+146
+Sproboje jeszce raz..
+0 0 13
+147
+Przeciez to jest niemozliwe.. Poprostu sie nia da!
+222 0 14
+148
+Udalo mi sie. Podolalem zadaniu..
+0 0 13
+149
+Widzicie.. planuje cos duzego.. i potrzebuje pomocy..
+264 0 0
+150
+Wpadliscie.. Poddajcie sie a czeka Was sprawiedliwy sad..
+265 0 14
+151
+Coz tam panie w polityce?
+225 0 0
+152
+Zauwazyles moze cos dziwnego w ostatnim czasie? No nie wiem.. Jakies anomalie czasowe?
+231 0 0
+153
+A coz to, jak sam okresliles za panstewko ze uwage samego krola przykulo?
+226 0 0
+154
+I na jakiej zasadzie ma wygladac ten hmm.. pakt ?
+228 0 0
+155
+Kobieta?
+227 0 0
+156
+Wiesz cos moze o gildii zlodzieji?
+229 0 0
+157
+Dobrze, sprobuje go poszukac
+0 0 13
+158
+Werdandi, a coz to jest ?
+230 0 0
+159
+Powiedz mi o tym cos wiecej
+232 0 0
+160
+Czy mozna sie dosiasc?
+0 0 15
+161
+Czy mozna sie dosiasc?
+235 0 0
+162
+Karczmarzu! Wodki!
+236 0 0
+163
+Ja to wlasciwie nie pije..
+237 0 0
+164
+Wiesz cos moze o anomaliach czasowych?
+238 0 0
+165
+Anomaliach.. Widzisz ostatnio gdy tylko wszedlem do miasta znalalem sie w polach bez pieniedzy i ekwpipunku..
+239 0 0
+166
+Nie do konca o to mi chodzilo.. Mialem na mysle powrot do przeslosci..
+240 0 0
+167
+Tez nie o to mi chodzilo..
+241 0 0
+168
+Chodzi o to ze pojawiles sie w miejscu w ktorym byles .. no nie wiem.. zalozmy dzien temu..
+242 0 0
+169
+Tak! Dokladnie tak!
+243 0 0
+170
+Eh.. Chyba jednak nic nie wiesz..
+0 0 0
+171
+Werdandi..
+244 0 0
+172
+Werdandi..
+245 0 0
+173
+Werdandi..
+246 0 0
+174
+Werdandi..
+247 0 0
+175
+Pewnie..
+248 0 13
+176
+<handel>
+0 0 16
+177
+Jak moge pomoc ?
+251 0 0
+178
+Mhm.. rozumiem.. I co to ma wspolnego ze mna?
+252 0 0
+179
+Zamieniam sie w sluch...
+253 0 0
+180
+Mam przytargac Ci na plecach zloto ktore wiozla cala karawana?
+254 0 0
+181
+A skad wiesz ze poprostu tego nie ukradne ?
+255 0 0
+182
+Cos mi sie tu nie podoba..
+256 0 0
+183
+Dobra. Niech bedzie..
+0 0 17
+184
+Porozmawiajmy o nagrodzie...
+263 0 0
+185
+Dlaczego nie zawiadomisz strazy miejskiej?
+257 0 0
+186
+Dlaczego ja ? Zawsze dajesz zlecenia przypadkowym osoba spotykanym w karczmach?
+258 0 0
+187
+Wydaje mi sie ze nie mowisz mi wszystkiego..
+259 0 0
+188
+Skad ta pewnosc?
+255 0 0
+189
+Skad tyle o mnie wiesz?
+260 0 0
+190
+Jestes wplywowy i masz zapewne wiele pieniedzy dlaczego nie wynajmiesz paru osob aby przeszukali teren..
+261 0 0
+191
+A co jesli odmowie ?
+262 0 0
+192
+Planuje skok na skarbiec krolewski i porzebuje ludzi.. Sam nie dam rady..
+266 0 0
+193
+Wkrotce przejezdzac bedzie karawana kupiecka...
+267 0 0
+194
+Mam ludzi we wenatrz.. udalo im sie zlokalizowac sekretne wejscie do skarbca od strony kanalow.. wyniesiemy zloto za miasto a nastepnie na przygotowana wczesniej barke przy rzece..
+273 0 0
+195
+Przenikniemy do zamku jako sluzba.. Moi ludzie zdarzyli juz zinflirtowac zamek, tak wiec mam dokladne plany pomieszczen i .. skarbca..
+274 0 0
+196
+Kupiec bedzie przewozil zamowienie dla samego krola.. Mam tez juz innego kupca na te przedmioty... Tak wiec mamy szanse sie wzbogacic.. Z Wasza pomoca uda sie je przechwycic...
+272 0 14
+197
+Oficjalnie jest to kupiec korzenny.. ponoc tez jakis zielarz.. a tak naprwde przewozi cenny artefakt na polecenie Ziutmelsona... Krol nie chcial rozglosu..
+268 0 0
+198
+Mialem romans z corka krola...
+269 0 14
+199
+Widzisz.. ten kupiec jest moim bratem..
+270 0 14
+200
+To bez znaczenia...
+271 0 14
+201
+No jak to co....  Bedziemy udawac sluzacych..  i wejdziemy na zamek ... udalo mi sie nawet uzyskac odpowiedznie stroje..
+275 0 14
+202
+Mialem na mysli ze powiemy ze przynosimy pilna wiadomosc od ksiecia Talbaru..
+275 0 14
+203
+Dokladnie to co powiedzialem... a na co Ci to wyglada? ...
+276 0 14
+204
+Dlaczego teraz ? Nie ma Ziutmelsona.. Krol zabral ze soba caly kwiat rycerstwa.. nikt z zewnatrz nie moze wchodzic..  a moi ludzie przenikneli tam ponad 5 miesicy temu... wiec wiem dokladnie co  i jak.. zamek jest teraz slabszy niz kiedykolwiek... Dlaczego Wy? Bo nalezymy do jednej gildii i jestescie profesjonalistami..
+277 0 0
+205
+Dzialam na zlecenie przywodcy z mojego regionu.. Nakazal mi sie z Wami skontaktowac i wtajemniczyc w reszte planu.. A zamek jest teraz najslabszy.. Brak Ziutmelsona  to brak rycerstwa.. pozostaje tylko straz miejska, a do zamoku nikt nowy nie wejdzie.. moi ludzie bedac tam od ponad 5 miesicy dokladnie przygotowali teren pod nasze przyjscie..
+0 0 14
+206
+Rozmawiam z nim..
+278 0 14
+207
+Noslemtuiz
+278 0 14
+208
+<dalsze opcje>
+279 0 0
+209
+Arahanox
+278 0 14
+210
+Rademenes
+278 0 14
+211
+<dalsze opcje>
+280 0 0
+212
+Kazdy jest swoim szefem...
+278 0 14
+213
+Nie wiem..
+0 0 13
+214
+<powrot>
+281 0 0
+215
+Udalo mi sie rozparacowac ten gang.. Maja sekretne przejscie w murze miasta.. Co wiecej.. udalo mi sie zyskac ich zaufanie.. Beda na mnie czekac o 3 tej nocy za zamkiem.. Wyslij ludzi aby ich przechwycili..
+283 0 13
+216
+Wiadomo kiedy wraca krol ?
+284 0 0
+217
+Caly czas nad tym pracuje..
+285 0 0
+218
+
+0 0 17
+219
+Grzeczniej chamie!
+0 0 1
+220
+To Ty pilnowales wozu wczorajszej nocy ?
+288 0 0
+221
+Tak.. wyobraz sobie ze jest problem... zawartosc TEGO wozu skradziono...
+0 0 0
+222
+Sluchaj.. przysyla mnie Korneliusz mam sie zajac ta sprawa a TY masz mi pomoc...
+289 0 0
+223
+To lepiej sobie cos przypomnij.. Pamietaj ze to TY miales pilnowac wozu i na TWOJEJ warcie go okradziono.. Korneliusz nie wyglda na zadowolonego ani na takiego co zapomina i daruje... Lepiej mi pomoz to moze choc troche zlagodzisz kare..
+0 0 17
+224
+Co mozesz powiedziec mi o tym miejscu?
+291 0 0
+225
+Kim jestes?
+0 0 18
+226
+Widze... jednak, nawet jak na cmentarz, jest dosc ponury.. napewno skrywa jakas mroczna historie...
+292 0 0
+227
+Masz cos przeciwko temu abym sie troche rozejrzal?
+293 0 0
+228
+Jakie eksperymenty ?
+294 0 0
+229
+Jakies rady?
+295 0 0
+230
+Nie widziales moze jakis podejrzanych ludzi w okolicy? Mogli przewozic jakis duzy ladunek...
+296 0 0
+231
+A nie wiesz moze po co ?
+298 0 0
+232
+Dziwne? Dlaczego?
+299 0 0
+233
+To juz wiadomo kto go ma... Musze sie tam dostac...
+300 0 0
+234
+Tak za nic?
+301 0 0
+235
+Nie rozumiem...
+302 0 0
+236
+Swietnie, gdzie moge go znalezc?
+303 0 0
+237
+Wyprzedze Cie, potrzebujesz takiej zebatki ? Swietnie... gdzie moge znalezc tego... Zegarmistrza.. ?
+304 0 0
+238
+Niech bedzie.. Poszukam tego Zegarmistrza i jego zebatek...
+0 0 17
+239
+Udalo mi sie pokonac Zegarmistrza...
+0 0 17
+240
+Wiem gdzie jest Twoj towar, za w wiezy za rzeka.. Bandytami raczej juz nie powinienes sie przejmowac..
+305 0 0
+241
+Zastanawia mnie tylko jedna rzecz...
+306 0 0
+242
+Co to dokladnie jest ? < pokazujesz klepsydre >
+307 0 0
+243
+Co wiesz o anomaliasz czasowych ?
+308 0 0
+244
+Komu miales dostarczyc te wszystkie przedmioty ?
+309 0 0
+245
+Dobra tyle mi wystarczy.. Co dalej ?
+0 0 17
+246
+Czy moge zobaczyc sie z krolem?
+313 0 17
+247
+Albert zarzadzil atak gdy tylko zwiadowcy wrocili...
+0 0 19
+248
+< umizgi >
+0 0 20
+249
+Witam.. Chyba bedziemy musieli spedzic ze soba troche czasu.. Jak Cie zwa?
+318 0 0
+250
+Za co siedzisz?
+319 0 0
+251
+< podaj haslo >
+0 0 19

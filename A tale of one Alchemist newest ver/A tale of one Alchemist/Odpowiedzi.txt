@@ -1,0 +1,666 @@
+100
+Nareszcie... Juz mialem dosc hasania po  polach...
+0 0 0
+101
+Podroz zajela mi troche czasu... Juz wkrotce slonce bedzie w zenicie..  ale oto wreszcie jestem... Dragonia... pozostaje przekorczyc rzeke.. Dziwne tylko ze nie ma tu zadnego mostu hm...
+0 0 0
+102
+Stoj! Kim jestes i gdzie idziesz?
+1 2 3
+103
+Miasta? Teraz wszyscy chca sie tam dostac... Wiedz, ze panuje tam stan wyjatkowy i to moze nie byc takie proste...
+6 7 10
+104
+Idac tam uwazaj na las... Kraza o nim przerozne plotki.. a wierz mi, do najprzyjemniejszych nie naleza
+6 7 9
+105
+Patrzcie jaki hardy... Mysle ze ktos powinien nauczyc Cie dobrych manier...
+5 8 8
+106
+
+1 2 4
+107
+Namnozylo sie w lesie plugastwa... Wilcy, koboldy, zboje.. Okoliczni mowia tez o jakies hybrydzie czleka i wilka...
+9 7 10
+108
+Nikt bez glejtu nie moze dostac sie do miasta. Krol nie moze sobie pozwolic na ewentualnych szpiegow...
+11 6 7
+109
+Farmy znajduja sie na polnoc od miasta, zaraz za lasem. Mowi sie ze jeden z wiesniakow wyhodowal jakas magiczna rosline
+12 10 6
+113
+Nie jestem magiem czy zielarzem....
+10 6 9
+110
+Przykro mi nic o tym nie wiem
+10 6 9
+111
+Zaczekaj! Jakbys byl na farmach to odszukaj mojego brata i przekaz mu to, bede wdzieczny..
+0 0 0
+112
+
+13 13 13
+114
+Witaj, nieznajomy! Co sprowadza Cie na moja farme?
+14 15 16
+115
+Moze i cos sie znajdzie.. Zbliza sie zima i potrzeba nam drewna.. 25 sztuk powinno wystarczyc
+17 15 16
+116
+Zapewne chodzi o Teodora.. Popytaj okolicznych..
+0 0 0
+117
+Do miasta nie dostanie sie nikt bez glejtu.. Uciazliwy rozkaz ale trzeba uszanowac.. Krol obawia sie szpiegow..
+18 15 14
+118
+Mowi sie o poteznym sojuszu w okolicy, a co gorsza i tereny sie rozrastaja.. Krol nie chce aby i Dragonia stala sie ich czescia
+0 0 0
+119
+10 stuk zlota. Wiecej nie moge zaoferowac..
+19 20 15
+120
+Swietnie, oby tak dalej
+0 0 0
+121
+Nie mam juz dla Ciebie wiecej zadan.. Sproboj popytac okolicznych..
+0 0 0
+122
+Nikt bez glejtu nie przejdzie. Rozkaz krola!
+23 24 25
+123
+Zdobyc glejt?! To nie jest zadne trofeum czy nagroda! Na niego trzeba zasluzyc!
+26 24 25
+124
+Pewnie.. Kazdy moze przynosic wiesci z Asgaru.. Bez glejtu nie przejdziesz..
+0 0 0
+125
+Zaczynasz mnie irytowac.. Musisz pokazac ze mozna Ci ufac.. Pogadaj ze straza nad rzeka, oni sprawdzaja nowych..
+0 0 0
+126
+Witam. Co sprowadza Cie w moje skromne progi?
+27 29 30
+127
+Teodor... <na twarzy kobiety pojawilo sie zmartwienie> Zniknal pare dni temu... Mowil ze idzie po drewno do pobliskiego lasu.. Juz bardzo dlugo nie wraca...
+28 29 30
+128
+Zapewne nie interesuje Cie zycie na farmie. Niestety po za tym nie mogie Ci wiecej zaooferowac. Musisz porozmawiac z moim mezem, on czesto podrozuje. Ale ludzie mowia cos o tejemniczej bestii w lesie
+31 32 30
+129
+Przykro mi, nic wiecej nie wiem...
+31 27 30
+130
+HEJ!!! POMOCY!! SLYSZY MNIE KTOS?! HEJJ!!
+33 34 35
+131
+TUTAJ! Wpadlem do jakiegos dolu! Pomoz mi..
+33 33 35
+132
+HEJ! Jestes tam jescze?! NIE ZOSTAWIAJ MNIE! HEJJ!!
+36 37 35
+133
+CZYSTY OSZALAL! JAK TU ZEJDZIESZ TO BEDZIEMY TU GNIC WE DWOCH! Myslisz ze jakby dalo sie stad wyjsc to ciagle bym tu siedzial?!
+38 39 35
+134
+Musisz znalezc jakas line po ktorej bym sie wspial, ale narazie umieram z glodu.. Nie jadlem od 3 dni, prosze przynies mi najpierw bochenek chleba
+43 44 35
+135
+Nie! Nie! Prosze ! Nie odchodz! NIE ZOSTAWIAJ MNIE TU! BLAGAM!!
+38 38 35
+136
+Witam. Co sprowadza Cie do mojego mlynu?
+40 41 35
+137
+Kiedys bylem poszukiwaczem przygod jak Ty, ale potem dostalem strzale w kolano...
+0 0 0
+138
+<Dostrzegasz piec. Co robisz?>
+42 35 35
+139
+Wyobraz sobie ze nigdzie sie stad nie wybieram...
+0 0 0
+140
+Ty zimny, wredny, wyrachowany gnoju! Jak smiesz targowac sie z czlowiekiem w potrzebie!
+45 46 47
+141
+Dobra, juz dobra! <dostrzegasz jak z dolu wylatuje mieszek> To wszystko co mam! Dam Ci wiele wiecej jak tylko wroce do domu! Prosze pomoz mi!
+48 48 48
+142
+Doprawdy.. dziwne poczucie humoru..
+49 0 0
+143
+Dziekuje! Serdecznie dziekuje za pomoc! Jestem Ci dozgonnie wdzieczny!
+52 53 54
+144
+Nie trzeba, dam sobie rade. Juz wiele dla mnie zrobiles
+55 56 54
+145
+Masz racje. Pomoz wiec dostac mi sie do mojego domu, na farmach.
+0 0 0
+146
+Tak
+57 59 58
+147
+Elwira... Moja ukochana Elwira.. Mialem pomoc... przyniesc drewno do domu.. a jedyne co to przynioslem smutek...
+60 59 58
+148
+Tak, masz racje.. Musze jak najszybciej wracac!
+53 59 58
+149
+Jeszce raz dziekuje za wszystko! Wpadnij kiedys do mnie do domu, na farmach!
+0 0 0
+150
+Naprawde? To od niego ? Ciekawe.. No nic.. Wkazdym razie dziekuje..
+57 61 58
+151
+Sek w tym, ze dawno juz nie rozmawialismy.. Poklucilismy sie.. A ten pierscien zwiazany jest z pewna zabawa dziecinstwa.. Moglbys mu przekazac ze bede w miejcu gdzie smoki gasz pragnienie?
+62 57 58
+152
+Wolno. Ale jestem zmeczony.. Opowiem Ci jak juz bedziemy w domu
+63 53 58
+153
+Oto mozesz byc spokojny
+57 53 58
+154
+Witaj!
+64 65 66
+155
+Wspaniale! I to dzieki Tobie! Dziekuje za pomoc! Uratowales mi zycie!
+92 93 66
+156
+Moj brat? A czego on moze chciec ?
+64 67 66
+157
+Naprawde? To od niego ? Ciekawe.. No nic.. Wkazdym razie dziekuje..
+64 68 66
+158
+Sek w tym, ze dawno juz nie rozmawialismy.. Poklucilismy sie.. A ten pierscien zwiazany jest z pewna zabawa dziecinstwa.. Moglbys mu przekazac ze bede w miejcu gdzie smoki gasz pragnienie?
+64 69 66
+159
+Ale najpierw opowiem Ci pewna historie...
+64 70 66
+160
+Witaj!
+64 71 66
+161
+Nie wiem.. Ta przygoda nigdy sie nie skonczyla...
+64 72 66
+162
+Witaj!
+64 73 66
+163
+Naszedl czas dorosnac.. Poznalem Elwire, Ronald wstapil do strazy, a Onfury.. coz.. chcial naprawde zostac poszukiwaczem przygod.. ale to kolano..
+64 75 74
+164
+Jeden... Byl jeszcze jeden... <mezczyzna zamyslil sie>
+64 76 74
+165
+Oh.. Przepraszam.. Zamyslilem sie... Nie wazne.. To juz nie istotne.. Wybacz, ale jestem zmeczony. Musze odpoczac..
+0 0 0
+166
+Witaj ponownie
+77 78 79
+167
+Niech bedzie.. Czego knokretnie chcialbys sie dowiedziec?
+80 81 82
+168
+Mojemu bratu, mieszka na farmach.. Pytaj o Teodora..
+77 83 79
+169
+Klamca... Nie mam pojecia komu dales pierscien ale to napewno nie byl moj brat...
+77 83 79
+170
+Widze zes pozadny i uczciwy czlek.. Zyskales w moich oczach..
+0 0 0
+171
+Pytaj wiec..
+86 87 88
+172
+Jesli o mnie chodzi, nie bede stal Ci na drodze... Ale musisz przekonac takze innych..
+91 87 88
+173
+Widzisz... Juz dawno ze soba nie rozmawialismy.. Dawniej bylismy  jak przyjaciele.. eh..
+77 89 86
+174
+Hej! Nie powinienes czasem myslec jak uzyskac audiencje u krola? Ponoc masz wazne wiesci...
+90 90 90
+175
+Czekaj! Pozwol mi sie jakos odwdzieczyc!
+0 0 0
+176
+WYNOS SIE STAD I NIE WRACAJ!
+94 0 0
+177
+Nie ma co! Tylko moj braciszek moze obracac sie w takim towarzystwie...Powiedz mu ze bede tam gdzie smoki gasza pragnienie.. A teraz zjezdzaj stad!
+95 95 95
+178
+Zastanawiales sie czasem czy pracujac jako straznik wiezienny sam nie jestes w pewnym senscie wiezniem?
+96 97 98
+179
+Pamietaj ze kiedy patrzysz w otchlan ta otchlan patrzy takze na Ciebie!
+0 0 0
+180
+Zla.. Zla ktore jest w sercu kazdego czlowieka!
+99 98 98
+181
+Otoz.. Kazdy czlowiek jest skazony.. W kazym sercu jest mrok.. W zyciu chodzi o to aby ten mrok Cie nie opanowal.. Jadro ciemosci...
+100 101 98
+182
+Widzisz.. Jest to miejsce ktore probuje wyzwolic ten mrok.. to zlo.. Twoje zadze i pragnienia.. Takim wlasnie miejscem jest wiezienie.. Tak.. Dopoki jest swiatlo, bedzie takze i cien...
+102 103 98
+183
+Wtedy zapanuja nieprzeniknione ciemnosci.. A w ciemnosci mozemy isc TYLKO naprzod...
+104 101 103
+184
+To niemozliwe! Nie mozesz sie pozbyc ludzkiego zla!
+104 101 105
+185
+Lzesz! Nie wierze Ci!
+101 107 98
+186
+Jestem bardzo ciekawy jak! No nic.. Zobaczymy..
+0 0 0
+187
+NADCHODZI ZIMA! wiec moze i moglbys mi pomoc.. Chcialbym abys przyniosl mi 5 wilczych skor abym mogl ocieplic cele. Oczywiscie zaplace.
+108 109 98
+188
+To nie jest zwykly cmentarz.. Kraza legendy ze jest to jakoby pozostalosc magicznego poligonu.. a leza tam "eksperymenty" i Ci ktorzy eksperymentowali.. Chociaz moze slowo "leza" nie jest tu odpowiednie..
+111 98 98
+189
+Wszystkie te szarlatanskie speclaly ktore ludzie nazwyaja nauka nie pozwalaja odpoczac osoba ktorych juz dawno tu nie ma.. W sumie to tez ma swoj plus... Bo zadna hiena cmentrarna nie odwazy zbeszczescici chodzacych zwlok..
+112 113 114
+190
+Mowi sie hrabstwie, zadzal nimi szalony mag, alchemik - Hepo Hepatis.. Jego zamilowanie do okielznania natury i chorych eksperymentow doprowadzily do calkowitej kleski.. Trzesinia ziemi, wybuchy, potezne wyladowania to tylko niektore z nich... Kazdej tej hmm "zabawie" towarzyszyly krzyki i cierpienie osob postronych i niewinnych.. Mieskzncow jego ziem.. Wkrotce cala jako pracownnia wraz z terenami zostala zrownan z ziemia przetrwal tylko ten cmentarz poniewaz znajdowal sie w kotlinie.. zdala od wszystkeigo..
+113 115 98
+191
+Nawet nie chce wiedziec co to bylo! Od takich plugastw nalezy trzymac sie z daleka!
+112 114 98
+192
+Ow mieszkancy to potwory! Nie wiem co za plugawa i ograzajaca sila i wola je tu trzyma! Jedno wiem! Jak takiego spotkasz nie miej litosci! To tylko zwloki.. wlasciciel juz dzwno nie zyje.. Szkoda ze jego cialo sztucznie potrzymywane nie chce lezec spokojnie.. Co za czasy.. Co za chromolone czasy.. ehh..
+112 113 98
+193
+No to sobie wyobraz jak nienormalny byl hrabia Hepo Hepatis...
+113 114 98
+194
+Wlasnie probuje Ci wytlumaczyc! Jestem wiezniem wlasnych zadz, pragnien, slabosci i kompleksow! Wziezniem zla ktore jest w kazdym! Ale miejsca takie jak to wiezienie, kusza.. neca.. POCHLANIAJA! Trzymaj sie z dala od jadra ciemnosci! jadra ciemnosci...
+104 110 98
+195
+Stoj! Przejscia nie ma!
+118 119 120
+196
+W to nie watpie, tyle ze rozkaz jest nie wpuszczac nikogo!
+119 120 120
+197
+Niemozlwie! Nikt z wyprawy do Asgaru nie przezyl...
+121 120 120
+198
+Porozmawiaj na ten temat z dowodca strazy.. Zarzadza on miastem na czas nieobecnosci krola..
+123 122 120
+199
+Niewiadomo, krol kazal nikogo nie wpuszcac do zamku, cytuje "Nikogo, nawet chromolonego ksiecia Talbaru"..
+123 120 120
+200
+Aby trafic do siedziby strazy, wychodzac z zamku skrec w lewo do najblizszego budynku
+120 120 120
+201
+Witajcie! Romuald de Trevis, zarzadca miasta i kapitan strazy miejskiej. W czym moge Ci pomoc ?
+124 125 30
+202
+Wiesci powiadasz? A jakiez to sa wiesci o ktorych sam krol uslyszec musi?
+127 126 30
+203
+Ponoc wszyscy zgineli..
+128 125 30
+204
+Co Ty mowisz?! Kto jeszcze przetrwal?
+129 125 30
+205
+Oczywiscie! Tylko krola nie ma na zamku.. Nie okreslil dokladnej daty powrotu.. Ale chyba bede Ci mogl pomoc..
+130 125 30
+206
+Zapewnie Ci zaszczyt audiencji u krola. Co wiecej bedziesz pierwszym kto dostapi tego zaszczytu po powrocie Jego Wysokosci.. ale bedziesz cos musial zrobic..
+131 132 30
+207
+Pomoz rozpracowac szajke zlodzieji. Pomimo ze osoby ktorym wydawane sa glejty sa najpierw dokladnie sprawdzane jakos udalo im sie przeniknac do miasta i pomimo licznych patroli miejskich udaje im sie wynoscic towar na zewnatrz..
+133 132 30
+208
+Proste... Stracisz szanse na audiencje..
+131 30 30
+209
+Wszystko w najlepszym porzadku. Nie ma powodow do obaw obywatelu!
+0 0 0
+210
+I co z ta szajka? Jakies postepy?
+134 125 30
+211
+Odejdü.. Nie mamy o czym rozmawiac..
+0 0 0
+212
+Wybacz, nie szukam nowych znajomych..
+0 0 0
+213
+Moglbym powiedziec ze interesuje mnie to co masz do powiedzenia ale byloby to klawmstwo a ja klamac nie lubie.. tak wiec.. zjezdzaj..
+0 0 0
+214
+Nie mamy o czym..
+136 137 137
+215
+Skad to masz?
+138 30 30
+216
+Hmm.. Niech bedzie ale zanim bedziemy rozmawiac musisz mi cos udowodnic..
+139 30 30
+217
+Pokaz ze potrafisz przebiedz stad na farmy w krocej niz 10 sec
+140 141 30
+218
+Jestem smiertelnie powazny.. To nie jest byle jaki czas..
+142 143 30
+219
+Szkoda.. mysalem ze Ty mi powiesz...
+0 0 0
+220
+Nie mamy o czym...
+145 137 137
+221
+Idz do naszego szefa.. On Cie pokieruje..
+0 0 0
+222
+Przykro mi ze tak myslisz...
+0 0 0
+223
+Imponujace. Skoro znasz nasze tajne przejscie to mysle ze jednak warto z Toba porozmawiac
+149 150 30
+224
+Witam. W czym moge sluzyc?
+151 152 30
+225
+Na zamku mowi sie ze krol Ziutmelson chce paktowac z niewielkim panstewkiem na poludniowym-wschodzie..
+153 152 30
+226
+Ma ono charakter typowo militarny. Zarzadza nim pewnien zakon rycerski, kazacy siebie zwac paladynami. Mowi sie ze ich wielkim mistrzem jest kobieta..
+154 155 30
+227
+Tak kobieta.. Ale nie mysl sobie, w walce potrafi sprostac nie jedenemu mezczyznie.. A o jej zdolnosciach przywodczych kraza legendy..
+154 152 30
+228
+Prawdopodobnie wsparcie militarne w zamian za ziemie i zloto
+152 155 30
+229
+Odnajdz naszego agenta, czesto przesiaduje w karczmie, zareaguje na Werdandi
+157 158 30
+230
+Dla Ciebie wystarczy informacja ze jest to nasze haslo
+157 157 30
+231
+Jedyna dziwna rzecza jaka zauwazylem to jest fakt ze nieporszeni goscie dostaja sie do miasta bez glejtow i co gorsza wynosza z niego kradzione przedmioty
+159 151 30
+232
+Jesli chcesz wiedziec cos wiecej to kapitan strazy sie tym zajmuje, ale slyszalem tez o pewniej bezczelej kradziezy. Okradli karawane z krolewskim skarbem, kupiec ktorym tym zarzadzal pije z rozpaczy w karczmie
+151 30 30
+233
+Hmm?
+160 30 30
+234
+Hmm?
+161 30 30
+235
+Pewnie, lepiej sie pije w towarzystwie
+162 163 30
+236
+I jeszcze cos na przegryzge!
+164 30 30
+237
+Kto nie pije ten kapuje a ja nie lubie kapusi! Wyjazd..
+0 0 0
+238
+Ano.. co ?
+165 30 30
+239
+Ooo tak, mi tez sie zdarza.. Zona wrzeszczy, ze ostatnio to nawet zbyt czesto..
+166 30 30
+240
+Przeszlosci? Tez tak mam, szczegolnie jak patrze na pamiatki rodzinne..
+167 30 30
+241
+Jakis Ty dziwny jestes.. To o co Ci chodzi..
+168 30 30
+242
+W sesnie ze sie cofnalem ?
+169 30 30
+243
+To nie jest takie trudne.. wystarczy pamietac gdzie byles o tej porze a potem tam poprostu isc.. albo zrobic pare krokow w tyl.. szegolnie w deszczowa pogode, slady widac idealnie! Nic prostszego!
+170 30 30
+244
+Wer.. Co ?
+0 0 0
+245
+Co to za czary? Chesz na stosie splonac?!
+0 0 0
+246
+Ja Zbigniew. Milo mi..
+0 0 0
+247
+Ehh.. Czyli jednak bedziesz musial sie dosiasc.. Sluchaj gadam z Toba sluzbowo wiec nie kaz mi Cie zabijac..
+175 30 30
+248
+Udalo nam sie ustalic, ze cala gildia nie wie do konca kto do niej nalezy.. Rozpoznaja sie za pomoca pierscieni.. Jeden z nich udalo mi sie przechwycic.. Prosze oto on... Postaraj sie zyskac ich zaufanie.. i skontaktuj sie z kapitanem..
+0 0 0
+249
+Cos podac?
+176 30 30
+250
+Hej no.. Podejdz tu na chwile.. Wygladasz na odwaznego..
+177 30 30
+251
+Nazywam sie Korneliusz, jestem kupcem. Widzisz jestem tu tylko przejazdem.. A konkretnie mialem dostarczyc pewnien przdmiot dosc waznej osobistosci..
+178 30 30
+252
+Widzisz ostatniej nocy moja karawana padla ofiara przestepcow.. Zostalismy okradzeni ze wszystkich kosztownosci.. Dlatego chcialbym Ci zlozyc pewna oferte..
+179 30 30
+253
+Zaplace Ci. Duzo zaplace. Jesli tylko uda Ci sie odzyskac moj utracony skarb..
+180 30 30
+254
+Podasz mi lokalizacje tego miejsca oczywiscie
+181 182 183
+255
+Widzisz.. Bo zalezy Ci na reputacji.. Byle kogo nie wpuszczaja do krola.. Pamietaj tez ze nie jestes anonimowy tak jak Ci zlodzieje.. tak wiec proba oszustwa mosze skonczyc sie niewesolo...
+184  182 183
+256
+Co masz na mysli?
+185 186 187
+257
+Myslisz ze tego nie zrobilem? Ci idioci nic nie potrafia po za zbieraniem podatkow...
+182 181 183
+258
+Przypadkowym? O nieee.. Nie jestes przypadkowa osoba.. Wiem kim jestes i do czego zmierzasz.. Wiem tez ze moge Ci zaufac..
+188 189 191
+259
+Bo i nie wszystko musisz wiedziec...
+190 184 183
+260
+Jestem wplywowym czlowiekiem i mam swoje zrodla.. A Ty.. niezbyt specjalnie probujesz zostac w ukryciu..
+183 191 182
+261
+Zeby i Ci mogli mnie rozkrasc? Nie dziekuje..
+182 181 184
+262
+Oczywiscie masz do tego prawo.. Wiedz jednak ze moge Ci pomoc spotkac sie z krolem.. no i.. zarobisz..
+181 184 183
+263
+Dam Ci potezny orez, przedmioty z mojego skarbca i pieniadze. Duzo pieniedy.. Jesli zalatwisz to szybko i z zadowalajacym efektem to moze nawet dozuce cos ekstra...
+190 191 183
+264
+Rozwin temat...
+192 193 30
+265
+Masz nas.. Poddajemy sie...
+0 0 0
+266
+Hmm... Masz jakis plan?
+194 195 30
+267
+I co w zwiazku z tym ?
+196 197 30
+268
+A jednak Ty posiadasz informacje na ten temat.. Jak to mozliwe ? ...
+198 199 200
+269
+Ziutmelson nie ma corki...
+0 0 0
+270
+I postanowiles napasc brata ? .. Masz mnie za idiote ? ..
+0 0 0
+271
+Dla mnie jednak ma znaczenie..
+0 0 0
+272
+Ta karawana juz raz zostala okradziona...
+0 0 0
+273
+Dlaczego my? Dlaczego teraz?
+204 205 200
+274
+Co masz na mysli ? ...
+201 202 203
+275
+Ziutmelsona nie ma na zamku... wiec nikt z zwenatrz nie wejdzie.. a Ty probujesz mnie oszukac...
+0 0 0
+276
+Na oszustwo...
+0 0 0
+277
+Jednej gildii powiadasz.. Dobra ostatnie pytanie.. Kto jest przywodca tej "naszej" gildii...
+206 207 208
+278
+Wiesz jakiego typu osob nie znosze najbardziej? ... Klamcow...
+0 0 0
+279
+
+209 210 211
+280
+
+212 213 214
+281
+
+206 207 208
+282
+Przyjdz o 3 tak jak sie umawialismy...
+0 0 0
+283
+A NIECH MNIE! Niesamowite! Gratuluje! Swietna robota! Dopilnuje by trafili za kratki! Jak krol wroci bedziesz pierwszym ktory sie z nim spotka! Jescze raz swietna robota!
+0 0 0
+284
+Niestety...
+0 0 0
+285
+To bierz sie do roboty.. Mnie interesuje przede wszystkim efekt
+0 0 0
+286
+Hmm.. Kolejny slad..
+218 218 218
+287
+Czego?
+219 30 30
+288
+Ano ja.. Jakis problem ?
+221 222 30
+289
+Kiedy ja nic nie wiem...
+223 30 30
+290
+Czym sa duchy? To smutni wysiedlency.. Wspomnienia bez domow...
+224 225 30
+291
+Jest to cmentarz...
+226 227 30
+292
+Masz racje... Miejsce to pochowku eksperymentow i  efektow ubocznych tego co naukowcy i czarodzieje nazywaja postepem...
+227 228 30
+293
+Ja nie.. Ale mieszkancy tego miejsca owszem...
+229 30 30
+294
+Legenda glosi ze w okolicach swoje laboraorium posiadal nikczemny czlek.. tak nikczemny ze nocami wloczyl i pisl krew nieszczesnikow.. ponoc zawarl umowe z wiezieniem.. Skazancy zamiast do cel trafiali do niego na stol... Ponoc pewnej ferelnej nocy wszystko zostalo zrownane z ziemia.. Ludzie interpretowali to jako kara na tego co bawil sie zyciem... Legenda glosi ze zrodla tego calego ohydnego porcederu,.. czyli zla najczystszego usunac sie nie dalo i zostalo zapieczentowane gleboko pod ziemia.... Ponoc potwor ten czasem wychodzi na powierzchnie zaczerpnac swiezej krwi... Taa ale to tylko legenda..
+229 30 30
+295
+Zlo boi sie srebra i swiatla.. Badz ostrozny...
+0 0 0
+296
+Hmm.. faktycznie pojawila sie nie dawno jakas grupa dla odmiany zywych.. Udali sie w glab cmentarza..
+231 30 30
+297
+Swietnie daj mi to co z niego zostalo
+0 0 0
+298
+A bo ja wiem.. Wydawalo mi sie ze weszli do krypty... dziwne...
+232 30 30
+299
+Bo ta krypta od wiekow jest zamknieta, a jedyny klucz dawno przepadl...
+233 30 30
+300
+Pomoge Ci.. wiem jak zrobic specjalny wytrych..
+234 30 30
+301
+Tak za nic.. Bo taka jest moja rola w tym wszystkim..
+235 30 30
+302
+Bo nie musisz.. Jedyne co to potrzebuje specjalnego skladnika..
+236 30 30
+303
+To nie bedzie takie proste... Posiada go istota zwana Zegarmistrzem... Wyprzedze Twoje pytanie.. Nazwyaja go tak bo jest stworzona tylko z zebatek zegarowych...
+237 30 30
+304
+Ta istota jest czescia wiezienia... Rozejrzyj sie za nim...
+238 30 30
+305
+Doskonala robota! Swietnie sie spisales! W calej mierze zasluzyles na nagrode!
+241 241 241
+306
+Mianowicie ?
+242 243 244
+307
+Widzisz.. To tak naprawde byl cel Twojego zadania... i to za niego tak naprawde wyzaczylem nagrode...
+243 244 245
+308
+Hmm.. Poprawka to nie anomalie czasu a przestrzeni.. To nie czas przesuwa sie po przestrzeni tylko przestrzen po lini czasu.. Zrodlem jest pewnien artefkat, ktory wydaje mi sie ze jest w Twoim posiadaniu.. Wiec, ze w niepowolanych rekach  a juz w szczegolnosci takich ktore nie umieja sie nim poslugiwac moze wywolac tragiczne skutki...
+242 224 245
+309
+Udalo Ci sie je odnalezc i ukarales bandytow.. hmm.. mysle ze moge Ci powiedziec.. dla krola...
+242 243 245
+310
+Tak.. tak.. swietnie sie spisales i tak dalej.. ale teraz odejdz.. mam duzo pracy..
+0 0 0
+311
+NIECH ZYJE KROL ZIUTMELSON!
+0 0 0
+312
+NIECH ZYJE KROL ZIUTMELSON!
+0 0 0
+313
+Uzyskales prawo do audiencji, co wiecej krol Ziutmelson czeka na Ciebie..
+0 0 0
+314
+Opowiadaj.
+247 30 30
+315
+Udaj sie do skarbca...
+0 0 0
+316
+Phhh! Bezczelnosc!
+0 0 0
+317
+< milczy >
+249 250 30
+318
+Twoje imie mnie zupelnie nie interesuje, tak wiec Ciebie moje tez nie powinno..
+0 0 0
+319
+Wkurzasz mnie, wiesz?
+251 30 30
+320
+Powodzenia!
+0 0 0
+321
+O ja nieszczesny!
+0 0 0
