@@ -198,7 +198,7 @@ int main()
 				Fabula.Dialog(Hero.SzukajNPC(), NPC->RetName(), NPC); break;
 				} //"tab"
 
-			case 'z': Hero.Switch_undergorund();
+			//case 'z': Hero.Switch_undergorund();
 			default: Hero.MenuGracza(decyzja); 
 			}
 
